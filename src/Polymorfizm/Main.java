@@ -17,6 +17,7 @@ public class Main {
         bird.checkFlyInfo();
         crow.checkFlyInfo();
 
+
         dog.makeEat();
         cat.makeEat();
         bird.makeEat();
